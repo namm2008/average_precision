@@ -1,6 +1,12 @@
 # average_precision
 Average Precision Calculation Example
 
+## Instruction
+In the mAP.ipynb, I will walk you through the calculation of mAP50 and mAP75 with instance segmentation task by deploying the trained Mask-RCNN image model. Coco Dataset was used in the calculation. To simplify the task, only 5 categories was sorted, 'person’, ‘chair’, ‘couch’, ‘dining table’ and ‘toilet’. 
+
+Coco dataset (248 MB): https://drive.google.com/file/d/1gUYzKQRPkd_k9MjSH8Gwyu98SmulgklK/view?usp=sharing
+*unzip the file and place at the same directory as the ipynb file.*
+
 ## Introduction
 Mean Average Precision (mAP) is widely used in the image classification tasks for Machine Learning community. Mean Average Precision 50% IoU ratio (mAP50) and 75% IoU ratio (mAP75) are the most commonly used Evaluation metric among all. 
 
