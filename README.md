@@ -32,7 +32,7 @@ Here was some additional implementation detail:
 2.	For easy manipulation, Pandas DataFrame was implemented in procedure ii to vii. Pandas DataFrame is a tool renowned for the data wrangling. In procedure ii to vii, some calculation between columns and creating new columns, and plotting graphs were applied. 
 3.	In procedure vi, the graph was flattened to ease the finding of AUC in the procedure vii. Fig 1. showed the visualization of the graph before and after applying the interpolation. 
 
-![]()
+![](https://github.com/namm2008/average_precision/blob/main/Curve.png)
 *Fig. 4 The precision-recall curve of a Class showed the visualization from procedure vi*
 
 
