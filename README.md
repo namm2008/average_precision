@@ -39,6 +39,7 @@ Here was some additional implementation detail:
 3.	In procedure vi, the graph was flattened to ease the finding of AUC in the procedure vii. Fig 1. showed the visualization of the graph before and after applying the interpolation. 
 
 ![](https://github.com/namm2008/average_precision/blob/main/Curve.png)
+
 *Fig. 4 The precision-recall curve of a Class showed the visualization from procedure vi*
 
 
