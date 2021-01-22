@@ -40,7 +40,7 @@ Here was some additional implementation detail:
 
 ![](https://github.com/namm2008/average_precision/blob/main/Curve.png)
 
-*Fig. 4 The precision-recall curve of a Class showed the visualization from procedure vi*
+*Fig. 1 The precision-recall curve of a Class showed the visualization from procedure vi*
 
 
 
